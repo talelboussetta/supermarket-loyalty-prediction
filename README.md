@@ -48,10 +48,6 @@ The supermarket wants to **predict customer spending** to:
 
 ## 📈 Results
 
-| Model                  | R² Score | MAE   |
-|------------------------|----------|-------|
-| Linear Regression      | 0.xx     | xxx   |
-| Random Forest Regressor| 0.xx     | xxx   |
 
 > 🎯 Random Forest performed better overall with lower prediction error and captured complex relationships.
 
